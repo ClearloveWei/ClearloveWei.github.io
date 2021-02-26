@@ -11,9 +11,9 @@ title                    : "Yifei Wei"
 title_separator          : "-"
 name                     : &name "Yifei Wei"
 description              : &description "personal description"
-url                      : https://ClearloveWei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://clearlovewei.github.io/pageTry/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ClearloveWei/ClearloveWei.github.io"
+repository               : "ClearloveWei/pageTry"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
