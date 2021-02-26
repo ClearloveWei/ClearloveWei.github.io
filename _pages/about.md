@@ -20,7 +20,6 @@ Please check my current [vitae](https://clearlovewei.github.io/files/vitae.pdf).
 
 # News
 
-_January 2021_:  I have a paper (first co-author) concerning multi-task learning submitted to __[IJCAI 2021](https://ijcai-21.org/)__.
-
-_December 2020:_ I have two papers (third author) accecpted by __[INFOCOM 2021](https://infocom2021.ieee-infocom.org/)__.
+* _January 2021_:  I have a paper (first co-author) concerning multi-task learning submitted to __[IJCAI 2021](https://ijcai-21.org/)__.
+* _December 2020:_ I have two papers (third author) accecpted by __[INFOCOM 2021](https://infocom2021.ieee-infocom.org/)__.
 
